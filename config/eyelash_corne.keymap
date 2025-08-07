@@ -91,7 +91,7 @@
 
         kp_lbkt {
             bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <11 10>;
+            key-positions = <25 26>;
         };
 
         kp_apos {
@@ -101,7 +101,7 @@
 
         kp_rbkt {
             bindings = <&kp LEFT_BRACKET>;
-            key-positions = <26 25>;
+            key-positions = <10 11>;
         };
 
         esc {
