@@ -86,7 +86,7 @@
 
         kp_bslh {
             bindings = <&kp BACKSLASH>;
-            key-positions = <1 2>;
+            key-positions = <14 1>;
         };
 
         kp_lbkt {
