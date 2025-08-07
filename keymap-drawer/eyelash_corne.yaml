@@ -199,7 +199,7 @@ layers:
 combos:
 - p: [14, 29]
   k: $$mdi:apple-keyboard-caps$$
-- p: [1, 2]
+- p: [14, 1]
   k: {t: \, s: '|'}
 - p: [11, 10]
   k: {t: ']', s: '}'}
