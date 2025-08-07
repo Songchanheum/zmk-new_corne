@@ -196,3 +196,16 @@ layers:
   - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [10, 20]
+  k: $$mdi:apple-keyboard-caps$$
+- p: [0, 10]
+  k: {t: \, s: '|'}
+- p: [9, 19]
+  k: {t: ']', s: '}'}
+- p: [29, 19]
+  k: .
+- p: [8, 18]
+  k: {t: '[', s: '{'}
+- p: [0, 1]
+  k: $$mdi:keyboard-esc$$
